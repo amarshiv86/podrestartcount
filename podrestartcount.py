@@ -76,7 +76,7 @@ class PodsList:
 
 class Report:
     """
-        A class used to generates restarting pods reports. This is for testing purpose.
+        A class used to generates restarting pods reports
 
         ...
 
